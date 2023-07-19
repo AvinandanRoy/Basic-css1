@@ -1,5 +1,9 @@
 .JustForFun{
-    margin: 180px;
+    /* margin: 180px; */
+    background-color: chartreuse;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .name{
@@ -8,4 +12,11 @@
     font-weight: 800;
     color: blueviolet;
     font-family: 'Times New Roman', Times, serif;    
+}
+
+.description{
+    font-family: calc();
+    font-size: 12px;
+    padding-left: 300px;
+    font-weight: 700;
 }
