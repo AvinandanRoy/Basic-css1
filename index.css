@@ -1,10 +1,10 @@
 .JustForFun{
-    margin: 200px;
-    text-align:  center;
+    margin: 180px;
 }
 
 .name{
-    font-size: 30px ;
+    text-align:  center;
+    font-size: 50px ;
     font-weight: 800;
     color: blueviolet;
     font-family: 'Times New Roman', Times, serif;    
